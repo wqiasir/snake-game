@@ -2,6 +2,9 @@
 _*_ca.pem
 _*.der
 _trace.log
+_tmp/
+*.whl
+_*.py
 
 # 系统文件
 Thumbs.db
