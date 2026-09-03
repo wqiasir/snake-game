@@ -1,0 +1,12 @@
+# 临时/诊断文件
+_*_ca.pem
+_*.der
+_trace.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
